@@ -1,7 +1,5 @@
 # c-algorithm-collection
 C dilinde yazılmış algoritma ve örnek program koleksiyonu.
-# C Algorithm Collection 
-
 Bu proje, C programlama dili kullanılarak yazılmış küçük ve orta ölçekli algoritmaların koleksiyonudur.  
 Amaç; algoritma pratiği yapmak, temel C dilini pekiştirmek ve öğrenme sürecini belgelerle desteklemektir.
 
@@ -19,7 +17,7 @@ Amaç; algoritma pratiği yapmak, temel C dilini pekiştirmek ve öğrenme süre
 
 ---
 
-## 🧠 Nasıl Kullanılır?
+##  Nasıl Kullanılır?
 
 1. Projeyi klonlayın:
    ```bash
