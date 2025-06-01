@@ -13,7 +13,7 @@ Bu proje; temel algoritma pratiği yapmak, C programlama dilini geliştirmek ve 
 | 1.2    | `1.2_math/`                    | Ortalama, asal sayılar, çarpanlar, OBEB/OKEK gibi matematiksel işlemler          |
 | 1.3    | `1.3_strings/`                 | String işlemleri, palindrom kontrolü, karakter sayımı vb.                         |
 | 1.4    | `1.4_c_exercises_with_scenarios/` | Gerçek hayat senaryolarını temsil eden örnek problemler                           |
-| 1.6    | `1.5_data_structures/`        | Temel veri yapıları: Stack, Queue, Linked List örnekleri                          |
+| 1.5    | `1.5_data_structures/`        | Temel veri yapıları: Stack, Queue, Linked List örnekleri                          |
 
 ---
 
